@@ -1,5 +1,5 @@
-mainprefix: "YourPrefix"
+mainprefix: "-"
 defaultjoinmessage: "**{user} Joined Invited By {Inviter} (Invites: {inv})**"
 defaultleavemessage: "**{user} Left, Invited by {inviter}**"
-token: "YourToken"
+token: "NzY2NjcwNjk3MDY5MjgxMzAw.X4mvug.T4EcP4iuks_bLJwxC3V2w6fIt9s"
 color: "BLUE"
